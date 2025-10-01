@@ -1,0 +1,3 @@
+Hola, este es un archivo de prueba.
+Contiene vocales acentuadas: á é í ó ú
+Y también la letra ñ y Ü mayúscula.
